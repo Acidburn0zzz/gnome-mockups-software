@@ -99,7 +99,7 @@ GEM
       net-ssh (>= 2.6.5)
     net-ssh (4.1.0)
       openssl
-    openssl (2.0.3)
+    openssl (3.0.1)
     padrino-helpers (0.13.3.3)
       i18n (~> 0.6, >= 0.6.7)
       padrino-support (= 0.13.3.3)
@@ -109,7 +109,7 @@ GEM
     parallel (1.11.1)
     ptools (1.3.3)
     public_suffix (2.0.5)
-    rack (2.0.1)
+    rack (2.2.8.1)
     rack-livereload (0.3.16)
       rack
     rb-fsevent (0.9.8)
